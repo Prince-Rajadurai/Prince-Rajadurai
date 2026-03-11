@@ -36,18 +36,6 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=7-SRIRAM-S&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7-SRIRAM-S&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 Contribution Activity
 
 <p align="center">
@@ -96,7 +84,7 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 <p>
 
-<a href="https://github.com/7-SRIRAM-S">
+<a href="https://github.com/Prince-Rajadurai">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
