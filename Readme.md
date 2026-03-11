@@ -21,22 +21,17 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,rust"/>
-</p>
-
-### 🧰 Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java"/>
 </p>
 
 ### 🗄 Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,redis"/>
 </p>
 
 ### 🔧 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
@@ -103,14 +98,6 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 <a href="https://github.com/7-SRIRAM-S">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/7-SRIRAM-S">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sriramsailappan5@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
