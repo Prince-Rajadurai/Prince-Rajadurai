@@ -36,50 +36,6 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 ---
 
-# 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7-SRIRAM-S&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🌍 Web Development
-- **IRCTC UI Redesign**  
-  Modern redesign of the railway booking interface.
-
-- **MapFinder Game**  
-  Interactive map-based discovery game built with JavaScript.
-
-- **Age Calculator**  
-  Simple and responsive age calculation tool.
-
----
-
-### ⚙ Backend / Systems
-- **MatchMaker (Java)**  
-  Optimal matching algorithms with database integration.
-
-- **Rock-Paper-Scissors WebSocket Game**  
-  Multiplayer browser game using Node.js WebSockets.
-
-- **Student Manager**  
-  CLI application for managing student records.
-
----
-
-### 🧪 Experiments
-- Rust Guessing Game  
-- WebAssembly Calculator  
-- AI Chatbot with voice support  
-- LLVM compiler exploration  
-
----
-
 # 🌐 Connect With Me
 
 <p>
@@ -100,4 +56,4 @@ Building scalable web applications, exploring algorithms, and crafting meaningfu
 
 ---
 
-⭐ From [Sriram S](https://github.com/7-SRIRAM-S)
+⭐ From [Prince RajaDurai](https://github.com/Prince-Rajadurai)
