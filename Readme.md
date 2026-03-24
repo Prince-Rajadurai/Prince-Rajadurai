@@ -1,8 +1,8 @@
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Prince RajaDurai J</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Prince RajaDurai J</h1>
 <h3 align="center">Aspiring Full Stack Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
